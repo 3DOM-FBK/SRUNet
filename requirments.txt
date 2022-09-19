@@ -1,0 +1,5 @@
+The list below are the required libraries to run the python files (SRUnet_50_25.py, SRUnet_100_50.py). the mentioned versions are the ones used to train our model but not necessary must be the same 
+tensorflow 2.1.0
+numpy 1.19.2
+* to convert geotiff to npy or npy to geotiff, need to install:
+rasterio 1.2.10
